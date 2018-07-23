@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="sweets_table.xslt"?>
+<!DOCTYPE albums SYSTEM "sweets.dtd">
+<sweets>
+	
+	<sweet category="czekolada">
+		<name>Czekolada mleczna</name>
+		<producer>Milka</producer>
+		<kcal>530</kcal>
+		<photo>https://dodomku.pl/images/products_new/400x400/00023145.jpg?id=1481618795</photo>
+		<ranking>8/10</ranking>	
+	</sweet>
+
+	<sweet category="czekolada">
+		<name>Czekolada mleczna</name>
+		<producer>E. Wedel</producer>
+		<kcal>530</kcal>
+		<photo>https://dodomku.pl/images/products_new/400x400/00018262.jpg?id=1510187405</photo>
+		<ranking>5/10</ranking>	
+	</sweet>
+
+	<sweet category="czekolada">
+		<name>Czekolada mleczna Goplana</name>
+		<producer>Jutrzenka</producer>
+		<kcal>535</kcal>
+		<photo>https://image.ceneo.pl/data/products/36066797/i-goplana-czekolada-oryginalnamleczna-90g.jpg</photo>
+		<ranking>3/10</ranking>	
+	</sweet>
+	
+	<sweet category="czekolada">
+		<name>Czekolada mleczna</name>
+		<producer> Alpen Gold</producer>
+		<kcal>525</kcal>
+		<photo>http://bd24.eu/media/catalog/product/cache/2/image/9df78eab33525d08d6e5fb8d27136e95/7/6/7622210307736.jpg</photo>
+		<ranking>6/10</ranking>
+	</sweet>
+	
+	
+	<sweet category="ciastka">
+		<name>Pieguski Choco Cookie</name>
+		<producer>Milka</producer>
+		<kcal>490</kcal>
+		<photo>https://www.austriansupermarket.com/media/catalog/product/cache/2/image/9df78eab33525d08d6e5fb8d27136e95/m/i/mil1050.jpg</photo>
+		<ranking>9/10</ranking>	
+	</sweet>
+	
+	
+	<sweet category="ciastka">
+		<name>Amerykanki klasyczne z kawałkami czekolady</name>
+		<producer>E. Wedel</producer>
+		<kcal>519</kcal>
+		<photo>http://redis-market.ro/wp-content/uploads/2016/05/5901588068244.jpg</photo>
+		<ranking>2/10</ranking>
+		</sweet>
+	
+	<sweet category="ciastka">
+		<name>Oreo Original</name>
+		<producer>Oreo</producer>
+		<kcal>480</kcal>
+		<photo>https://images-na.ssl-images-amazon.com/images/I/513LGJisOgL._SX355_.jpg</photo>
+		<ranking>5/10</ranking>
+		</sweet>
+	
+	<sweet category="ciastka">
+		<name>Złotokłose wiatraczki owsiane korzenne</name>
+		<producer>San Łakotki</producer>
+		<kcal>465</kcal>
+		<photo>https://dodomku.pl/images/products_new/400x400/00034610.jpg?id=1419243373</photo>
+		<ranking>2/10</ranking>
+		</sweet>
+	
+	<sweet category="cukierki">
+		<name>Michałki Klasyczne</name>
+		<producer>Wawel</producer>
+		<kcal>538</kcal>
+		<photo>https://secure.ce-tescoassets.com/assets/PL/438/5900102008438/ShotType1_328x328.jpg</photo>
+		<ranking>7/10</ranking>
+	</sweet>	
+	
+	<sweet category="cukierki">
+		<name>Value Krówki</name>
+		<producer>Tesco</producer>
+		<kcal>400</kcal>
+		<photo>https://secure.ce-tescoassets.com/assets/PL/784/5051701053784/ShotType1_328x328.jpg</photo>
+		<ranking>9/10</ranking>
+	</sweet>	
+</sweets>

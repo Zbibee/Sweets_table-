@@ -1,0 +1,40 @@
+body{
+	background-image: url("http://www.krazek1.pl/img/tlo_.jpg");
+}
+
+h1{
+	text-align: center;
+	font-family: Apple Chancery, cursive;	
+}
+
+img{
+	 height: 50px; 
+	 width:  80px;	
+}
+
+table {
+    width: 100%;
+}	
+
+	th, td {
+   		 border-bottom: 1px solid #ddd;
+		 text-align: left;
+		 text-align: center;
+		 font-family:Comic Sans MS, Comic Sans, cursive;
+	}
+	
+	
+#czekolada {
+	background-color: 	rgb(217, 128, 38);
+	opacity: 0.8;
+}
+			
+#ciastka {
+	background-color: rgb(204, 102, 0);
+	opacity: 0.8;
+}
+			
+#cukierki {
+	background-color: rgb(255, 148, 77);
+	opacity: 0.8;
+}

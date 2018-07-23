@@ -1,0 +1,30 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT sweets (sweet)+>
+<!ATTLIST sweets
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT sweet (name,producer,kcal,photo,ranking)>
+<!ATTLIST sweet
+  xmlns CDATA #FIXED ''
+  category NMTOKEN #REQUIRED>
+
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST name
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT producer (#PCDATA)>
+<!ATTLIST producer
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT kcal (#PCDATA)>
+<!ATTLIST kcal
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT photo (#PCDATA)>
+<!ATTLIST photo
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT ranking (#PCDATA)>
+<!ATTLIST ranking
+  xmlns CDATA #FIXED ''>
